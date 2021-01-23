@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="TravailPratique2.Acrobate">
+    <Position X="3" Y="8.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAABAAAAgAAAAAAQAAAAAQAAAAIAAAAA=</HashCode>
+      <FileName>Acrobate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravailPratique2.Artiste">
+    <Position X="9.5" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACIAQAABAqgAgAgAACAAIAAAACAAAAIIAAAA=</HashCode>
+      <FileName>Artiste.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="prestationArtiste" />
+      <Property Name="NuméroArtiste" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TravailPratique2.AuteurCompositeurInterprète">
+    <Position X="9.25" Y="8.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAABAAAAoAAAACAAAAAACAAAAAIAAABA=</HashCode>
+      <FileName>AuteurCompositeurInterprète.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravailPratique2.Humoriste">
+    <Position X="16.5" Y="8.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAABAAAAgAAAAAAQAAAAAACAAAIAAAAA=</HashCode>
+      <FileName>Humoriste.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravailPratique2.Interprete">
+    <Position X="6" Y="8.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAABAAAAgAAAAAAAAAAACAABAAIAAAAA=</HashCode>
+      <FileName>Interprete.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravailPratique2.Musicien">
+    <Position X="13.25" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAABAAAAgAAAAAAAQAAAAAACAAIAAAAA=</HashCode>
+      <FileName>Musicien.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravailPratique2.NumeroArtiste">
+    <Position X="4" Y="2" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAIBAEAIQJJCAEAQAABAACAAAAAgAAAIARAAAAACAA=</HashCode>
+      <FileName>NumeroArtiste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TravailPratique2.Participants">
+    <Position X="14.75" Y="1" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQA4AAAAAAAAAAABBQgEgQgAAAIAgQAGAAAABIAQ=</HashCode>
+      <FileName>Participants.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ListeParticipants" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="TravailPratique2.Program">
+    <Position X="22.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TravailPratique2.IMusical">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMusical.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PieceMusical" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="TravailPratique2.INonMusical">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INonMusical.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NuméroJoué" />
+    </ShowAsAssociation>
+  </Interface>
+  <Enum Name="TravailPratique2.TypePrestation">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAACAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Artiste.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

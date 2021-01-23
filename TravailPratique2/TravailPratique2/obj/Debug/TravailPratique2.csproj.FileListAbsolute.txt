@@ -1,0 +1,7 @@
+C:\Users\mkamt\OneDrive\Documents\Université de Sherbrooke\inf731-programmation-oriente-objet\Travaux pratiques\TravailPratique2\TravailPratique2\bin\Debug\TravailPratique2.exe.config
+C:\Users\mkamt\OneDrive\Documents\Université de Sherbrooke\inf731-programmation-oriente-objet\Travaux pratiques\TravailPratique2\TravailPratique2\bin\Debug\TravailPratique2.exe
+C:\Users\mkamt\OneDrive\Documents\Université de Sherbrooke\inf731-programmation-oriente-objet\Travaux pratiques\TravailPratique2\TravailPratique2\bin\Debug\TravailPratique2.pdb
+C:\Users\mkamt\OneDrive\Documents\Université de Sherbrooke\inf731-programmation-oriente-objet\Travaux pratiques\TravailPratique2\TravailPratique2\obj\Debug\TravailPratique2.csprojAssemblyReference.cache
+C:\Users\mkamt\OneDrive\Documents\Université de Sherbrooke\inf731-programmation-oriente-objet\Travaux pratiques\TravailPratique2\TravailPratique2\obj\Debug\TravailPratique2.csproj.CoreCompileInputs.cache
+C:\Users\mkamt\OneDrive\Documents\Université de Sherbrooke\inf731-programmation-oriente-objet\Travaux pratiques\TravailPratique2\TravailPratique2\obj\Debug\TravailPratique2.exe
+C:\Users\mkamt\OneDrive\Documents\Université de Sherbrooke\inf731-programmation-oriente-objet\Travaux pratiques\TravailPratique2\TravailPratique2\obj\Debug\TravailPratique2.pdb
